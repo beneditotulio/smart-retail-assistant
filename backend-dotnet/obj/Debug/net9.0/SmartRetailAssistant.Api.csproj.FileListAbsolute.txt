@@ -72,3 +72,14 @@ C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\o
 C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\SmartRetailAssistant.Api.dll
 C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\refint\SmartRetailAssistant.Api.dll
 C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\SmartRetailAssistant.Api.pdb
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\appsettings.json
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.staticwebassets.endpoints.json
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.exe
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.deps.json
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.runtimeconfig.json
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.dll
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\bin\Debug\net9.0\SmartRetailAssistant.Api.pdb
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\SmartRet.28E3B6FB.Up2Date
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\SmartRetailAssistant.Api.genruntimeconfig.cache
+C:\Users\tulio.benedito\Documents\GitHub\smart-retail-assistant\backend-dotnet\obj\Debug\net9.0\ref\SmartRetailAssistant.Api.dll

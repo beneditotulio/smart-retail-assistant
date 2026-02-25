@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pyodbc
-pandas
-python-dotenv
-openai
-pydantic
