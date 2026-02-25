@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DhNnjxE1mYc=",
+  "dgSpecHash": "zXH4twSC1ao=",
   "success": true,
   "projectFilePath": "C:\\Users\\tulio.benedito\\Documents\\GitHub\\smart-retail-assistant\\backend-dotnet\\SmartRetailAssistant.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tulio.benedito\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",
     "C:\\Users\\tulio.benedito\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\tulio.benedito\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
     "C:\\Users\\tulio.benedito\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
