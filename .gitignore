@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+env/
+.env/
+
+# Data
+data/*.csv
+data/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

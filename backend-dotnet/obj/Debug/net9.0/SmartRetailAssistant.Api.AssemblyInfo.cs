@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartRetailAssistant.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8482f569372b673d49d045eaf8d2cf026854f2d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531ed940ca5ad869d2e6b743d4b5361284180ae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartRetailAssistant.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartRetailAssistant.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
