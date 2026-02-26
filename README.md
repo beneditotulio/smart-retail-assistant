@@ -1,5 +1,7 @@
 # Smart Retail Assistant - SQL + AI Open Hack Solution
 
+**GitHub Repository**: [https://github.com/beneditotulio/smart-retail-assistant](https://github.com/beneditotulio/smart-retail-assistant)
+
 This repository contains the submission for the **SQL + AI Datathon Open Hack Challenge**. 
 
 The **Smart Retail Assistant** is a RAG-based Chatbot (Option 1) that allows users to discover products from a Walmart catalog using natural language. It is built using **.NET 9**, **Azure SQL Database (Vector Search)**, and **Azure OpenAI**.
