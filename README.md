@@ -61,4 +61,4 @@ Our solution implements the **Retrieval-Augmented Generation (RAG)** pattern usi
 2. Open [frontend/index.html](frontend/index.html) in your browser.
 
 ## 📺 Demo
-*Video link will be provided here.*
+**Video Link**: [https://youtu.be/58NQYUGr30s](https://youtu.be/58NQYUGr30s)
